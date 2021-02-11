@@ -1,12 +1,13 @@
 [![build](https://github.com/felangel/bloc/workflows/build/badge.svg)](https://github.com/felangel/bloc/actions)
 
-# flutter_timer
+# flutter_timer_async_and_parallels
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is an example of difference between asynchrony and parallelism in Dart (https://habr.com/ru/post/541890/).
+
 
 A few resources to get you started if this is your first Flutter project:
 
