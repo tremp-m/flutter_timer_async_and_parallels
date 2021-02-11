@@ -2,11 +2,9 @@
 
 # flutter_timer_async_and_parallels
 
-A new Flutter project.
+This project is an example of difference between asynchrony and parallelism in Dart (https://habr.com/ru/post/541890/).
 
 ## Getting Started
-
-This project is an example of difference between asynchrony and parallelism in Dart (https://habr.com/ru/post/541890/).
 
 
 A few resources to get you started if this is your first Flutter project:
